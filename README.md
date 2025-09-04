@@ -27,7 +27,6 @@
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,react,express,mongodb,vite,tailwind,nodejs,git,github,mysql,netlify,&theme=light)](https://skillicons.dev)  
-
 **Also comfortable with**: SQL, Basic ML workflows.  
 
 ---
